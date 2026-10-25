@@ -31,3 +31,4 @@ The site is configured with `output: "export"` and exports static files to `out/
 - For best performance, use compressed GLB models and KTX2 textures, keep mobile device pixel ratio capped, and preserve the reduced-motion accommodation.
 - `mailto:hello@example.com` is a placeholder contact address.
 # iphone-duo
+# iphone-duo
