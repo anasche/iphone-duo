@@ -11,7 +11,12 @@ A responsive, static-exportable Next.js concept landing page using React Three F
 npm install
 npm run dev
 ```
-Open http://localhost:3000.
+# iPhone Duo Showcase
+
+A GSAP-powered website showcasing the iPhone Duo concept.
+
+Live demo:
+https://clever-zuccutto-bbd33b.netlify.app
 
 ## Production build
 ```bash
